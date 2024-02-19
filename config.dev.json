@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "salazarrheanne648@gmail.com",
+		"password": "khilaytheowner",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,13 +12,15 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "⚒️|ZHILAY",
+	"prefix": ":",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": ["100086499831547",
+	             "100089145732922"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +42,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "animenorbell@gmail.com",
+			"clientId": "1093543991370-i8c683q12gtnvm3c7d46f66gm242p69f.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//046cC7zipmtEPCgYIARAAGAQSNwF-L9IrlpqAuBV452y9dzEeX8q0Ax4i8-Kg7OmbZ4E1901iVB80cRLlcE-3R1hWka_f5Ae5wIA",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LcPs3gpAAAAAPLN7e6b72rbjFw2QAF6a6HvkuOM",
+			"secretKey": "6LcPs3gpAAAAAL8D3njx4k1Le4dE9Vwr7XDjjSl3"
 		}
 	},
 	"dashBoard": {
